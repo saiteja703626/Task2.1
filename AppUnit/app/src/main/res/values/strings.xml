@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="unit_options">
+        <item>inch</item>
+        <item>cm</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+        <item>pound</item>
+        <item>kg</item>
+        <item>ounce</item>
+        <item>ton</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
+
